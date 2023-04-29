@@ -1,9 +1,9 @@
 //-----------------------------------------------------------------------------
 //
-//  clock.c
+//  odb_read.c
 //
-//  Swallowtail Clock Demo Firmware
-//  STM32F103 Clock Demo Firmware
+//  Swallowtail ODB2 Reader Firmware
+//  STM32F103 ODB2 Reader Firmware
 //
 //  Copyright (c) 2023 Swallowtail Electronics
 //
